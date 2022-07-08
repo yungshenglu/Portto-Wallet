@@ -1,0 +1,14 @@
+{
+  "short_name": "Portto-Wallet",
+  "icons": [
+    {
+      "src": "favicon-32x32.png",
+      "type": "image/png",
+      "sizes": "32x32"
+    }
+  ],
+  "start_url": ".",
+  "display": "standalone",
+  "theme_color": "#4D5472",
+  "background_color": "#F9F9F9"
+}
